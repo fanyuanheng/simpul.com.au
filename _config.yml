@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Simpul Co
 markdown: redcarpet
 pygments: true
+
+production_url : http://www.simpul.com.au
